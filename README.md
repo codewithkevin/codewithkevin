@@ -9,3 +9,4 @@ Hi there 👋, I'm Kevin
 - 😄 Languages I can write Python, Javascript, English, HTML and Twi 
 - ⚡ Fun fact: Till I get recognize by the world no stopping 
 
+https://github-readme-stats.vercel.app/api?username=codewithkevin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
