@@ -10,3 +10,6 @@ Hi there 👋, I'm Kevin
 - ⚡ Fun fact: Till I get recognize by the world no stopping 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=codewithkevin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codewithkevin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
