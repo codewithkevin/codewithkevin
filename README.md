@@ -1,6 +1,6 @@
 Hi there 👋, I'm Kevin Black
 
-- 🔭 I’m currently working on Discord clone, Netflix clone
+- 🔭 I’m currently working on Discord clone
 - 🌱 I’m currently learning Javascript and React 
 - 👯 I’m looking to collaborate with Anyone 
 - 🤔 I’m looking for help with Data Science 
