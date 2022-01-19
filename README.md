@@ -9,13 +9,13 @@ Hi there 👋, I'm Kevin Black
 - 😄 Languages I can write Python, Javascript and HTML  
 - ⚡ Fun fact: Till I get recognize by the world no stopping 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=codewithkevin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-![TOP LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=CODEWITHKEVIN&show_icons=true&theme=radical)
-
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=codewithkevin&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithkevin&theme=github_dark)
-![]([![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codewithkevin&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats))
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithkevin&theme=github_dark)
-
+[![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=codewithkevin&show_icons=true&theme=github_dark)](https://github.com/qbentil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkevin&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/codewithkevin)
+ 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codewithkevin&theme=dracula)  
 
+![GitHub metrics](https://metrics.lecoq.io/codewithkevin) 
