@@ -16,6 +16,4 @@ Hi there 👋, I'm Kevin Black
 [![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=codewithkevin&show_icons=true&theme=github_dark)](https://github.com/qbentil)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkevin&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/codewithkevin)
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codewithkevin&theme=dracula)  
-
-![GitHub metrics](https://metrics.lecoq.io/codewithkevin) 
+ 
