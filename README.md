@@ -9,7 +9,6 @@ Hi there 👋, I'm Kevin Black
 - 😄 Languages I can write Python, Javascript and HTML  
 - ⚡ Fun fact: Till I get recognize by the world no stopping 
 
-
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=codewithkevin&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithkevin&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithkevin&theme=github_dark)
