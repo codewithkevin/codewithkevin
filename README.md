@@ -1,5 +1,8 @@
+[![MasterHead](https://media3.giphy.com/media/UuTmwiLNZBNbgn8dNx/giphy.gif?cid=ecf05e47hirp6bxxkyvbuf8s4qtld3p36v6e9ar0x2ctoupo&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
+
+<img width='400px' alt='coding' align='center' src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithkevin&label=Profile%20views&color=0e75b6&style=flat" alt="codewithkevin" /> </p>
 
