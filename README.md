@@ -29,6 +29,11 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc67agzxax7p8d03hut2zfoq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc67agzxax7p8d03hut2zfoq" height="30" width="40" /></a>
   
   
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codewithkevi&theme=dracula)  
+
+  
+  
+  
 
 </p>
 
