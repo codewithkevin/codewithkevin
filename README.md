@@ -27,6 +27,10 @@
 <a href="https://twitter.com/1stblackcousin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1stblackcousin" height="30" width="40" /></a>
 <a href="https://instagram.com/kevvin_black" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevvin_black" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc67agzxax7p8d03hut2zfoq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc67agzxax7p8d03hut2zfoq" height="30" width="40" /></a>
+  
+  
+  ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=codewithkevin&theme=dracula&hide_border=true)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
