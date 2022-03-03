@@ -29,9 +29,6 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc67agzxax7p8d03hut2zfoq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc67agzxax7p8d03hut2zfoq" height="30" width="40" /></a>
   
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codewithkevi&theme=dracula)  
-
-  
   
   
 
@@ -43,3 +40,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithkevin&show_icons=true&locale=en&layout=compact" alt="codewithkevin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithkevin&show_icons=true&locale=en" alt="codewithkevin" /></p>
+
+
+
