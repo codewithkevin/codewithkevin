@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithkevin" alt="codewithkevin" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/1stblackcousin" target="blank"><img src="https://img.shields.io/twitter/follow/1stblackcousin?logo=twitter&style=for-the-badge" alt="black_asain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/black_asain" target="blank"><img src="https://img.shields.io/twitter/follow/black_asain?logo=twitter&style=for-the-badge" alt="black_asain" /></a> </p>
 
 
 
@@ -47,7 +47,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithkevin&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithkevin&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithkevin&theme=github_dark)
-[![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=codewithkevin&show_icons=true&theme=github_dark)](https://github.com/qbentil)
+[![Kevin Stat](https://github-readme-stats.vercel.app/api?username=codewithkevin&show_icons=true&theme=github_dark)](https://github.com/codewithkevin)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkevin&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil)
  
 
